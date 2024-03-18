@@ -1,3 +1,4 @@
+![Langton Lnkdn](https://github.com/Tech-Nat/Tech-Nat/assets/97749491/be77361d-0725-4c4c-8883-e028bb98b701)
 <h1 align="center">Hi 👋, I'm Nat</h1>
 <h3 align="center">A passionate Multi-Cloud DevOps and Cloud Engineer from Jo'Burg, South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://miraculoussoft.com/wp-content/uploads/2022/03/best-PHP-Development-Services-new-york.gif">
